@@ -24,11 +24,41 @@ Turning ideas into projects that are more than just CRUD applications.
 
 I enjoy challenging projects that require research, problem-solving, and system design.
 
-### Tech Arsenal
+## 🛠️ Tech Stack
 
-<p>
-  <img src="https://skillicons.dev/icons?i=java,python,js,c,cpp,react,html,css,tailwind,nodejs,express,mongodb,mysql,postgres,git,docker,postman,vscode" />
-</p>
+```text
+👨‍💻 Languages
+├── ☕ Java
+├── 🐍 Python
+├── ⚡ JavaScript
+├── 🔷 C
+└── 🔹 C++
+
+🎨 Frontend
+├── ⚛️ React
+├── 🌐 HTML5
+├── 🎨 CSS3
+└── 💨 Tailwind CSS
+
+⚙️ Backend
+├── 🟢 Node.js
+├── 🚀 Express.js
+└── 🔗 REST APIs
+
+🗄️ Databases
+├── 🍃 MongoDB
+├── 🐬 MySQL
+└── 🐘 PostgreSQL
+
+🛠️ Tools
+├── 🐙 Git
+├── 🐳 Docker
+├── 📮 Postman
+└── 💻 VS Code
+
+📊 Data & Automation
+└── 🕸️ BeautifulSoup
+```
 
 ### Beyond Code
 
