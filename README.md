@@ -1,4 +1,3 @@
-
 # Hey, I'm Shlesh 👋
 
 I enjoy building software that connects data, automation, and real-world decision making.
@@ -17,15 +16,7 @@ Most of my time is spent experimenting with backend systems, APIs, web scraping,
 
 ### Things I Like Building
 
-⚙️ Automation Tools
-
-📊 Data-Driven Applications
-
-🌐 Full-Stack Web Platforms
-
-🔍 Scrapers & Data Pipelines
-
-📈 Financial & Analytics Systems
+⚙️ Automation Tools • 📊 Data-Driven Applications • 🌐 Full-Stack Platforms • 🔍 Data Pipelines • 📈 Financial Systems
 
 ### Current Mission
 
@@ -35,20 +26,9 @@ I enjoy challenging projects that require research, problem-solving, and system 
 
 ### Tech Arsenal
 
-**Languages**
-Java • JavaScript • Python • SQL • C/C++
-
-**Frontend**
-React • HTML • CSS • Tailwind CSS • Bootstrap
-
-**Backend**
-Node.js • Express.js • REST APIs
-
-**Databases**
-MongoDB • MySQL • PostgreSQL
-
-**Tools**
-Git • GitHub • VS Code • Postman • Playwright • Docker
+<p>
+  <img src="https://skillicons.dev/icons?i=java,python,js,c,cpp,react,html,css,tailwind,nodejs,express,mongodb,mysql,postgres,git,docker,postman,vscode" />
+</p>
 
 ### Beyond Code
 
