@@ -34,11 +34,14 @@ I enjoy challenging projects that require research, problem-solving, and system 
 ├── 🔷 C
 └── 🔹 C++
 
+
 🎨 Frontend
+├── ▲ Next.js
 ├── ⚛️ React
 ├── 🌐 HTML5
 ├── 🎨 CSS3
 └── 💨 Tailwind CSS
+
 
 ⚙️ Backend
 ├── 🟢 Node.js
